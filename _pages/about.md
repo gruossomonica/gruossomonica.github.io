@@ -20,7 +20,7 @@ Hi everyone! I'm Monica, a Software Engineer. My experience concerns research an
 
 I was born in Potenza, Italy, on 24/04/1992. I graduated with honors in Computer Engineering at the University of Basilicata, Italy, in July 2018.
 
-In the same year, I joined the DiMIE, [Department of Mathematics, Computer Science, and Economics](https://dimie.unibas.it/site/home.html), at the [University of Basilicata](https://portale.unibas.it/site/home.html), Potenza (Italy), where I completed the Ph.D. in Mathematics and Computer Science under the supervision of Dott. Ugo Erra with a thesis entitled _"Human Segmentation with Deep Convolutional Neural Networks"_. 
+In the same year, I joined the DiMIE, [Department of Mathematics, Computer Science, and Economics](https://dimie.unibas.it/site/home.html), at the [University of Basilicata](https://portale.unibas.it/site/home.html), Potenza (Italy), where I completed the Ph.D. in Mathematics and Computer Science under the supervision of Dott. Ugo Erra with a thesis entitled _"Human Segmentation with Deep Convolutional Neural Networks"_.
 
 My main research interests include deep learning, computer vision, and image analysis.
 
