@@ -38,8 +38,14 @@ body.sticky-bottom-footer {
   }
 }
 
-.social .contact-icons {
-  font-size: 2rem;
+.profile.float-right {
+  margin-left: 2rem;
+}
+
+.social {
+  .contact-icons {
+    font-size: 2rem;
+  }
 }
 
 // TODO: redefine content layout.
