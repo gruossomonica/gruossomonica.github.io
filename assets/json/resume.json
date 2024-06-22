@@ -19,7 +19,7 @@
     {
       "name": "e-Novia S.p.A.",
       "position": "Software Engineer",
-      "startDate": "November 2021",
+      "startDate": "Nov 2021",
       "endDate": "now",
       "summary": "As part of the software team of e-Novia, I support both startups of e-Novia group and external clients in different fields.",
       "highlights": [
@@ -33,8 +33,8 @@
       "location": "Potenza, Italy",
       "area": "Mathematics and Computer Science",
       "studyType": "Ph.D.",
-      "startDate": "Novemeber 2018",
-      "endDate": "November 2021",
+      "startDate": "Nov 2018",
+      "endDate": "Nov 2021",
       "courses": ["Human Segmentation with Deep Convolutional Neural Networks (grade: excellent)"]
     },
     {
@@ -42,8 +42,8 @@
       "location": "Potenza, Italy",
       "area": "Computer Engineering and Information Technologies (LM-32)",
       "studyType": "MSc",
-      "startDate": "August 2015",
-      "endDate": "July 2018",
+      "startDate": "Aug 2015",
+      "endDate": "Jul 2018",
       "courses": ["Deep Learning for the Chroma Key simulation (Graduated with honors)"]
     },
     {
@@ -51,8 +51,8 @@
       "location": "Potenza, Italy",
       "area": "Computer Sciences and Technologies (L-31)",
       "studyType": "BSc",
-      "startDate": "August 2011",
-      "endDate": "June 2015",
+      "startDate": "Aug 2011",
+      "endDate": "Jun 2015",
       "courses": ["Statistical photography - statistical approach to background subtraction (Graduated with honors)"]
     }
   ],
