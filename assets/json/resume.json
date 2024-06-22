@@ -22,7 +22,9 @@
       "startDate": "November 2021",
       "endDate": "now",
       "summary": "As part of the software team of e-Novia, I support both startups of e-Novia group and external clients in different fields.",
-      "highlights": ["Skills: C++, ROS, Qt/QML, C#, Python, TensorFlow, Visual Studio, VS Code, mongoDB, MQTT, BusMaster, Candb++, bash, Nvidia boards, Raspberry pi, Ubuntu, Windows, git, BitBucket, confluence, anaconda"]
+      "highlights": [
+        "Skills: C++, ROS, Qt/QML, C#, Python, TensorFlow, Visual Studio, VS Code, mongoDB, MQTT, BusMaster, Candb++, bash, Nvidia boards, Raspberry pi, Ubuntu, Windows, git, BitBucket, confluence, anaconda"
+      ]
     }
   ],
   "education": [
