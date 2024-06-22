@@ -7,10 +7,10 @@ nav: true
 nav_order: 5
 ---
 
+## Papers
+
 <!-- _pages/publications.md -->
 <div class="publications">
-
-## Papers
 
 {%- for y in page.years %}
   <h2 class="year">{{y}}</h2>
