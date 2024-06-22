@@ -19,6 +19,7 @@
     {
       "name": "e-Novia S.p.A.",
       "position": "Software Engineer",
+      "location": "Milan, Italy",
       "startDate": "Nov 2021",
       "endDate": "now",
       "summary": "As part of the software team of e-Novia, I support both startups of e-Novia group and external clients in different fields.",
@@ -31,8 +32,7 @@
     {
       "institution": "University of Basilicata (in consortium with University of Salento)",
       "location": "Potenza, Italy",
-      "area": "Mathematics and Computer Science",
-      "studyType": "Ph.D.",
+      "studyType": "Ph.D. in Mathematics and Computer Science",
       "startDate": "Nov 2018",
       "endDate": "Nov 2021",
       "courses": ["Human Segmentation with Deep Convolutional Neural Networks (grade: excellent)"]
@@ -40,8 +40,7 @@
     {
       "institution": "University of Basilicata",
       "location": "Potenza, Italy",
-      "area": "Computer Engineering and Information Technologies (LM-32)",
-      "studyType": "MSc",
+      "studyType": "MSc in Computer Engineering and Information Technologies (LM-32)",
       "startDate": "Aug 2015",
       "endDate": "Jul 2018",
       "courses": ["Deep Learning for the Chroma Key simulation (Graduated with honors)"]
@@ -49,8 +48,7 @@
     {
       "institution": "University of Basilicata (in consortium with University of Salento)",
       "location": "Potenza, Italy",
-      "area": "Computer Sciences and Technologies (L-31)",
-      "studyType": "BSc",
+      "studyType": "BSc in Computer Sciences and Technologies (L-31)",
       "startDate": "Aug 2011",
       "endDate": "Jun 2015",
       "courses": ["Statistical photography - statistical approach to background subtraction (Graduated with honors)"]
