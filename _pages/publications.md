@@ -20,7 +20,7 @@ nav_order: 4
 
 - **Evaluation of Virtual Reality Interaction Techniques for 3D Graph Exploration**
   <br>N. Capece, U. Erra, D. Malandrino, M. M. North, and <u> M. Gruosso</u>
-  <br>[[arXiv](https://doi.org/10.2312/gch.20201301)]
+  <br>[[arXiv](https://arxiv.org/abs/2302.05660)]
 
 ## Posters
 
