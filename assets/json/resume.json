@@ -74,18 +74,18 @@
   "awards": [
     {
       "title": "Best Presentation Award",
-      "year": "2020",
-      "highlights": ["3rd IEEE International Conference on Artificial Intelligence and Virtual Reality"]
+      "date": "2020",
+      "awarder": "3rd IEEE International Conference on Artificial Intelligence and Virtual Reality"
     },
     {
       "title": "Best Paper Award",
-      "year": "2019",
-      "highlights": ["10th IEEE International Conference of Cognitive Infocommunications"]
+      "date": "2019",
+      "awarder": "10th IEEE International Conference of Cognitive Infocommunications"
     },
     {
       "title": "2nd place for Ph.D. students",
-      "year": "2018",
-      "highlights": ["Leonardo Innovation Award"]
+      "date": "2018",
+      "awarder": "Leonardo Innovation Award"
     }
   ]
 }
