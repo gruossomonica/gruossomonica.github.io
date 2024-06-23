@@ -24,7 +24,7 @@ That same year, I joined the [Department of Mathematics, Computer Science, and E
 
 I have a passion for programming and continuous learning. My interests lie in artificial intelligence, particularly deep learning for image analysis, computer vision, and autonomous driving vehicles.
 
-My professional experience includes research and analysis of the state of the art, requirements gathering, data collection, software design and implementation using both traditional and deep learning techniques. Additionally, I have expertise in testing, debugging, and producing comprehensive documentation., as well as testing, debugging, and documentation production.
+My professional experience includes research and analysis of the state of the art, requirements gathering, data collection, software design and implementation using both traditional and deep learning techniques, as well as testing, debugging, and documentation production.
 
 In my free time, I enjoy cooking, reading (especially crime novels), and watching movies and TV series. I also stay active by cycling and swimming.
 
