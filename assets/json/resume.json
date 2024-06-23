@@ -1,5 +1,5 @@
 {
-  "basics": {
+  "general info": {
     "name": "Monica Gruosso",
     "label": "Ph.D., Deep Learning and Software Engineer",
     "image": "",
@@ -15,7 +15,7 @@
       "region": ""
     }
   },
-  "work": [
+  "working experience": [
     {
       "name": "e-Novia S.p.A.",
       "position": "Software Engineer",
@@ -69,6 +69,23 @@
       "language": "Spanish",
       "fluency": "Limited working knowledge",
       "icon": ""
+    }
+  ],
+  "honors and awards": [
+    {
+      "title": "Best Presentation Award",
+      "year": "2020",
+      "highlights": ["3rd IEEE International Conference on Artificial Intelligence and Virtual Reality"]
+    },
+    {
+      "title": "Best Paper Award",
+      "year": "2019",
+      "highlights": ["10th IEEE International Conference of Cognitive Infocommunications"]
+    },
+    {
+      "title": "2nd place for Ph.D. students",
+      "year": "2018",
+      "highlights": ["Leonardo Innovation Award"]
     }
   ]
 }
