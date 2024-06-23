@@ -36,8 +36,9 @@ nav_order: 4
   <br>M. Gruosso
   <br>_Sam Ratulangi University_
   <br>September 28, 2021 - online
-  <br>[[Slides](http://graphics.unibas.it/www/mgruosso/slides/workshop_28_09_21.pptx)] [[Oral Presentation](https://www.youtube.com/watch?v=HlsWxLlPxB4)]
+  <br>[[Slides](https://docs.google.com/presentation/d/1d0DEV8EcrSz46an-jKUeBKD6YdlWbHz5/edit?usp=drive_link&ouid=100767810733697371632&rtpof=true&sd=true)] [[Oral Presentation](https://www.youtube.com/watch?v=HlsWxLlPxB4)]
 - **Convolutional neural networks for image analysis**
   <br>M. Gruosso
   <br><i>University of Basilicata</i>
   <br>Potenza, Italy, January 15, 2020
+  <br>[[Slides](https://docs.google.com/presentation/d/10CQPqjmsqy_TA9hG7TPvvvNhyPxNXGdi/edit?usp=drive_link&ouid=100767810733697371632&rtpof=true&sd=true)]
