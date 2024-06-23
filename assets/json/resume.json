@@ -1,5 +1,5 @@
 {
-  "general info": {
+  "basics": {
     "name": "Monica Gruosso",
     "label": "Ph.D., Deep Learning and Software Engineer",
     "image": "",
@@ -15,7 +15,7 @@
       "region": ""
     }
   },
-  "working experience": [
+  "work": [
     {
       "name": "e-Novia S.p.A.",
       "position": "Software Engineer",
@@ -71,7 +71,7 @@
       "icon": ""
     }
   ],
-  "honors and awards": [
+  "awards": [
     {
       "title": "Best Presentation Award",
       "year": "2020",
