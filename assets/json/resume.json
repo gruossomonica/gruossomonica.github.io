@@ -92,41 +92,28 @@
     {
       "name": "Programming languages",
       "level": "",
-      "keywords": ["Java", "MATLAB", "Python", "C/C++", "C#", "Basic", "Javascript", "Kotlin"]
+      "keywords": ["Python", "C/C++", "C#", "MATLAB", "Java", "Kotlin"]
     },
     {
       "name": "Applications and software",
       "level": "",
       "keywords": [
+        "Microsoft Visual Studio",
+        "Visual Studio Code",
+        "MATLAB",
         "Microsoft Office",
         "NetBeans",
-        "MATLAB",
+        "Candb++",
         "Android Studio",
         "Cisco Packet Tracer",
         "PostgreSQL",
-        "Sql Server Management Studio",
-        "Microsoft Visual Studio",
-        "Visual Studio Code",
-        "Candb++"
+        "Sql Server Management Studio"
       ]
     },
     {
       "name": "Framework and libraries",
       "level": "",
-      "keywords": [
-        "TensorFlow",
-        "Keras",
-        "Caffe",
-        "Java Server Faces",
-        "Hibernate",
-        "JUnit",
-        "jQuery",
-        "OpenCV",
-        "NumPy",
-        "Matplotlib",
-        "ROS",
-        "Qt/QML"
-      ]
+      "keywords": ["TensorFlow", "Keras", "Caffe", "OpenCV", "NumPy", "Matplotlib", "ROS", "Qt/QML", "Java Server Faces", "Hibernate", "JUnit"]
     },
     {
       "name": "Markup languages and file formats",
