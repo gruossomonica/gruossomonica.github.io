@@ -41,7 +41,7 @@
       "institution": "University of Basilicata",
       "location": "Potenza, Italy",
       "studyType": "MSc in Computer Engineering and Information Technologies (LM-32)",
-      "startDate": "Aug 2015",
+      "startDate": "Oct 2015",
       "endDate": "Jul 2018",
       "courses": ["Deep Learning for the Chroma Key simulation (Graduated with honors)"]
     },
@@ -49,7 +49,7 @@
       "institution": "University of Basilicata (in consortium with University of Salento)",
       "location": "Potenza, Italy",
       "studyType": "BSc in Computer Sciences and Technologies (L-31)",
-      "startDate": "Aug 2011",
+      "startDate": "Oct 2011",
       "endDate": "Jun 2015",
       "courses": ["Statistical photography - statistical approach to background subtraction (Graduated with honors)"]
     }
@@ -92,7 +92,7 @@
     {
       "name": "Programming languages",
       "level": "",
-      "keywords": ["Python", "C/C++", "C#", "MATLAB", "Java", "Kotlin"]
+      "keywords": ["Python", "C/C++", "C#", "MATLAB", "Java", "Kotlin", "SQL"]
     },
     {
       "name": "Applications and software",
