@@ -17,12 +17,21 @@
   },
   "work": [
     {
+      "name": "Randstad Digital",
+      "position": "Senior Software Engineer",
+      "location": "Gorgonzola, Italy",
+      "startDate": "2024",
+      "endDate": "now",
+      "summary": "Consultant at Thales Italy, Navaids team.",
+      "highlights": ["Skills: Python, PyCharm"]
+    },
+    {
       "name": "e-Novia S.p.A.",
       "position": "Software Engineer",
       "location": "Milan, Italy",
       "startDate": "2021",
-      "endDate": "now",
-      "summary": "As part of the software team of e-Novia, I support both startups of the e-Novia group and external clients in different sectors. I deal with various projects and technologies, such as innovation and R&D projects, software development based on traditional and deep learning techniques, testing, and documentation production.",
+      "endDate": "2024",
+      "summary": "As part of the e-Novia software team, I supported both startups within the e-Novia group and external clients in various industries. I was involved in various projects and technologies, such as innovation and R&D projects, software development based on traditional and deep learning techniques, testing and documentation production.",
       "highlights": [
         "Skills: C++, ROS, Qt/QML, C#, Python, TensorFlow, Visual Studio, VS Code, mongoDB, MQTT, BusMaster, Candb++, bash, Nvidia boards, Raspberry pi, Ubuntu, Windows, git, BitBucket, confluence, anaconda"
       ]

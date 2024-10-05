@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Ph.D., Deep Learning and Software Engineer
+subtitle: Ph.D., Senior Software Engineer
 
 profile:
   align: right
