@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Monica Gruosso",
-    "label": "Ph.D., Deep Learning and Software Engineer",
+    "label": "Ph.D., Senior Software Engineer",
     "image": "",
     "email": "gruosso.monica@gmail.com",
     "phone": "",
@@ -101,33 +101,22 @@
     {
       "name": "Programming languages",
       "level": "",
-      "keywords": ["Python", "C/C++", "C#", "MATLAB", "Java", "Kotlin", "SQL"]
+      "keywords": ["Python", "C++", "C#", "MATLAB", "Java", "Kotlin", "SQL"]
     },
     {
       "name": "Applications and software",
       "level": "",
-      "keywords": [
-        "Microsoft Visual Studio",
-        "Visual Studio Code",
-        "MATLAB",
-        "Microsoft Office",
-        "NetBeans",
-        "Candb++",
-        "Android Studio",
-        "Cisco Packet Tracer",
-        "PostgreSQL",
-        "Sql Server Management Studio"
-      ]
+      "keywords": ["Visual Studio Code", "Microsoft Visual Studio", "MATLAB", "PyCharm", "Microsoft Office", "Candb++", "NetBeans", "Android Studio"]
     },
     {
       "name": "Framework and libraries",
       "level": "",
-      "keywords": ["TensorFlow", "Keras", "Caffe", "OpenCV", "NumPy", "Matplotlib", "ROS", "Qt/QML", "Java Server Faces", "Hibernate", "JUnit"]
+      "keywords": ["TensorFlow", "Keras", "Caffe", "ROS", "Qt/QML", "OpenCV", "NumPy", "Matplotlib"]
     },
     {
       "name": "Markup languages and file formats",
       "level": "",
-      "keywords": ["JSON", "LaTeX", "Markdeep/Markdown", "HTML", "CSS", "XML", "bash"]
+      "keywords": ["JSON", "LaTeX", "Markdeep/Markdown", "XML", "bash"]
     },
     {
       "name": "Code versioning",
