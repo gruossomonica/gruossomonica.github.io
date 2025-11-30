@@ -10,7 +10,7 @@
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Sesto San Giovanni (Milan)",
+      "city": "Milan",
       "countryCode": "IT",
       "region": ""
     }
@@ -22,8 +22,8 @@
       "location": "Gorgonzola, Italy",
       "startDate": "2024",
       "endDate": "now",
-      "summary": "Consultant at Thales Italy, Navaids team.",
-      "highlights": ["Skills: Python, PyCharm"]
+      "summary": "Consultant at Thales Italy, Navaids team. Responsible for the development of applications for communication and control of embedded devices, covering tasks from backend and REST API design to user interface implementation. Experience working on both Windows and Linux-based platforms.",
+      "highlights": ["Skills: Python, PyCharm, Django, Vue.js"]
     },
     {
       "name": "e-Novia S.p.A.",
@@ -111,7 +111,7 @@
     {
       "name": "Framework and libraries",
       "level": "",
-      "keywords": ["TensorFlow", "Keras", "Caffe", "ROS", "Qt/QML", "OpenCV", "NumPy", "Matplotlib"]
+      "keywords": ["Django", "Vue.js", "TensorFlow", "Keras", "Caffe", "ROS", "Qt/QML", "OpenCV", "NumPy", "Matplotlib"]
     },
     {
       "name": "Markup languages and file formats",
