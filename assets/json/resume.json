@@ -22,7 +22,7 @@
       "location": "Gorgonzola, Italy",
       "startDate": "2024",
       "endDate": "now",
-      "summary": "Software Engineer working on the development and evolution of software applications for industrial systems. Main activities include the design and implementation of backend services, REST APIs, desktop applications, and web-based monitoring tools. I contribute both to new development projects and to the maintenance and improvement of existing software products, including legacy applications.",
+      "summary": "Software Engineer working on the development and evolution of software applications for industrial systems. Main activities include the design and implementation of backend services, REST APIs, desktop applications, and web-based monitoring tools. I contribute to both new development projects and the maintenance and improvement of existing software products, including legacy applications.",
       "highlights": ["Technologies: Python, Django, Vue.js, Qt, MATLAB, REST APIs, Delphi, Linux, Windows"]
     },
     {
@@ -31,7 +31,7 @@
       "location": "Milan, Italy",
       "startDate": "2021",
       "endDate": "2024",
-      "summary": "Software Engineer involved in R&D and industrial software projects across different application domains, including automotive, computer vision, and intelligent systems. Worked on the development, maintenance, and evolution of existing software products, as well as on new technology-oriented projects. Activities included software implementation, debugging, feature development, technical analysis, testing, and documentation.",
+      "summary": "Software Engineer involved in R&D and industrial software projects across different application domains, including automotive, computer vision, and intelligent systems. I worked on the development, maintenance, and evolution of existing software products, as well as on new technology-oriented projects. Activities included software implementation, debugging, feature development, technical analysis, testing, and documentation.",
       "highlights": ["Technologies: C++, Python, ROS, TensorFlow, Qt/QML, MQTT, Linux, Git"]
     }
   ],
