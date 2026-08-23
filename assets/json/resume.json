@@ -22,8 +22,8 @@
       "location": "Gorgonzola, Italy",
       "startDate": "2024",
       "endDate": "now",
-      "summary": "Consultant at Thales Italy, Navaids team. Responsible for the development of applications for communication and control of embedded devices, covering tasks from backend and REST API design to user interface implementation. Experience working on both Windows and Linux-based platforms.",
-      "highlights": ["Skills: Python, PyCharm, Django, Vue.js"]
+      "summary": "Software Engineer working on the development and evolution of software applications for industrial systems. Main activities include the design and implementation of backend services, REST APIs, desktop applications, and web-based monitoring tools. I contribute both to new development projects and to the maintenance and improvement of existing software products, including legacy applications.",
+      "highlights": ["Technologies: Python, Django, Vue.js, Qt, MATLAB, REST APIs, Delphi, Linux, Windows"]
     },
     {
       "name": "e-Novia S.p.A.",
@@ -31,10 +31,8 @@
       "location": "Milan, Italy",
       "startDate": "2021",
       "endDate": "2024",
-      "summary": "As part of the e-Novia software team, I supported both startups within the e-Novia group and external clients in various industries. I was involved in various projects and technologies, such as innovation and R&D projects, software development based on traditional and deep learning techniques, testing and documentation production.",
-      "highlights": [
-        "Skills: C++, ROS, Qt/QML, C#, Python, TensorFlow, Visual Studio, VS Code, mongoDB, MQTT, BusMaster, Candb++, bash, Nvidia boards, Raspberry pi, Ubuntu, Windows, git, BitBucket, confluence, anaconda"
-      ]
+      "summary": "Software Engineer involved in R&D and industrial software projects across different application domains, including automotive, computer vision, and intelligent systems. Worked on the development, maintenance, and evolution of existing software products, as well as on new technology-oriented projects. Activities included software implementation, debugging, feature development, technical analysis, testing, and documentation.",
+      "highlights": ["Technologies: C++, Python, ROS, TensorFlow, Qt/QML, MQTT, Linux, Git"]
     }
   ],
   "education": [
@@ -44,7 +42,9 @@
       "studyType": "Ph.D. in Mathematics and Computer Science",
       "startDate": "2018",
       "endDate": "2021",
-      "courses": ["Human Segmentation with Deep Convolutional Neural Networks (Grade: excellent)"]
+      "courses": [
+        "Research on deep learning and computer vision, with focus on human segmentation using convolutional neural networks. Thesis: 'Human Segmentation with Deep Convolutional Neural Networks (Grade: excellent)'"
+      ]
     },
     {
       "institution": "University of Basilicata",
@@ -101,32 +101,27 @@
     {
       "name": "Programming languages",
       "level": "",
-      "keywords": ["Python", "C++", "C#", "MATLAB", "Java", "Kotlin", "SQL"]
+      "keywords": ["Python", "C++", "C#", "MATLAB", "SQL", "Java"]
     },
     {
-      "name": "Applications and software",
+      "name": "Frameworks & Technologies",
       "level": "",
-      "keywords": ["Visual Studio Code", "Microsoft Visual Studio", "MATLAB", "PyCharm", "Microsoft Office", "Candb++", "NetBeans", "Android Studio"]
+      "keywords": ["Django", "Vue.js", "Qt/QML", "ROS", "TensorFlow", "Keras", "OpenCV"]
     },
     {
-      "name": "Framework and libraries",
+      "name": "Software Engineering",
       "level": "",
-      "keywords": ["Django", "Vue.js", "TensorFlow", "Keras", "Caffe", "ROS", "Qt/QML", "OpenCV", "NumPy", "Matplotlib"]
+      "keywords": ["OOP", "Design Patterns", "MVC", "Refactoring", "Debugging", "Testing", "Documentation"]
     },
     {
-      "name": "Markup languages and file formats",
+      "name": "Development Tools & Version Control",
       "level": "",
-      "keywords": ["JSON", "LaTeX", "Markdeep/Markdown", "XML", "bash"]
-    },
-    {
-      "name": "Code versioning",
-      "level": "",
-      "keywords": ["git", "GitHub", "BitBucket"]
+      "keywords": ["Git", "GitHub", "GitLab", "Bitbucket", "PyCharm", "VS Code", "Microsoft Visual Studio"]
     },
     {
       "name": "Operating systems",
       "level": "",
-      "keywords": ["Windows", "Ubuntu (desktop, Nvidia boards, Raspberry)", "Android"]
+      "keywords": ["Windows", "Linux", "Android"]
     }
   ]
 }
